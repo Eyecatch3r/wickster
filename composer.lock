@@ -106,6 +106,7 @@
             ],
             "time": "2018-01-09T20:05:19+00:00"
         },
+
         {
             "name": "doctrine/lexer",
             "version": "v1.0.1",
@@ -1611,7 +1612,7 @@
         },
         {
             "name": "symfony/http-foundation",
-            "version": "v4.0.8",
+            "version": "v4.2.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-foundation.git",
