@@ -19,7 +19,7 @@
   <body>
 
     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-      <a class="navbar-brand" href="#">Navbar</a>
+      <a class="navbar-brand" href="#">Actify</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -49,21 +49,18 @@
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
       </div>
-	  <div class="col">
-          @foreach ($discounts as $discount)
-		          <p>{{ $discount->Body }}</p>
-		  @endforeach
-	  
-	  
-	  
-	  </div> 
+
+
+
+
+	  </div> -->
     </nav>
 
     <main role="main" class="container">
 
       <div class="starter-template">
         <h1>Wickster</h1>
-        
+
       </div>
 
     </main><!-- /.container -->
